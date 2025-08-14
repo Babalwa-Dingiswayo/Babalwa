@@ -57,8 +57,7 @@
 
 ### 📌 Featured Projects
 - 🏥 **Hospital Management System** – C# & SQL system for managing patient registration, appointments, pharmacy, and ward allocation  
-- 📝 **Student Feedback Portal** – C# Windows Forms app for collecting anonymous course feedback (SQLite)  
-- 📦 **Inventory Manager** – Python CLI tool for managing product stock with CRUD operations  
+  
 
 ---
 
@@ -70,5 +69,4 @@
 
 ---
 
-⭐ **Tip:** Once this is ready, name your repository exactly like your GitHub username so it becomes your **profile README**.
 
