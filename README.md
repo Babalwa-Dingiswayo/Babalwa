@@ -81,5 +81,14 @@
 </p>
 
 
+<!-- Data Analytics project stats -->
+<img 
+  src="https://github-readme-stats.vercel.app/api/pin/?username=Babalwa-Dingiswayo&repo=data-analytics-project&theme=tokyonight" 
+  alt="Data Analytics Project Stats" />
+
+<!-- Software Development project stats -->
+<img 
+  src="https://github-readme-stats.vercel.app/api/pin/?username=Babalwa-Dingiswayo&repo=software-project&theme=tokyonight" 
+  alt="Software Development Project Stats" />
 
 
