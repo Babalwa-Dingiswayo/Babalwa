@@ -60,6 +60,25 @@
   
 
 ---
+### 📊 GitHub Stats
+<p align="center">
+  <!-- General stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Babalwa-Dingiswayo&show_icons=true&theme=tokyonight" 
+    alt="GitHub stats" />
+  
+  <!-- Top languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Babalwa-Dingiswayo&layout=compact&theme=tokyonight" 
+    alt="Top languages" />
+</p>
+
+### 🔥 GitHub Streak
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=Babalwa-Dingiswayo&theme=tokyonight" 
+    alt="GitHub Streak" />
+</p>
 
 
 
